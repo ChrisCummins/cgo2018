@@ -1,266 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content=""><meta name="author" content="">
+---
+title: International Symposium on Code Generation and Optimization
+---
 
-  <title>CGO 2018</title>
-  <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-  <style>
-  .sponsors img {
-    width: 100%;
-    max-width: 350px;
-  }
+<div style="padding-bottom:0;" class="jumbotron">
+  <img style="width: 100%;" src="{{ '/img/vienna.jpg' | relative_url }}" alt="CGO'18"/>
+</div>
 
-  /* organization members */
-  table {
-    margin-bottom: 1.5em;
-  }
-  table tr td {
-    padding-right: .8em;
-    min-width: 150px;
-  }
-  table tr td:last-child {
-    color: #555;
-  }
-  </style>
-</head>
-<body>
-  <div id="app">
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
-            <span class="sr-only">Toggle navigation</span>
-          </button>
-          <a class="navbar-brand" href="/cgo2018/">CGO 2018</a>
-        </div> <!-- /.navbar-header -->
-
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
-          </ul> <!-- /.navbar-nav -->
-
-          <ul class="nav navbar-nav navbar-right">
-            <li class="dropdown">
-              <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="past-cgos-dropdown" role="button">
-                Previous CGOs
-                <b class="caret"></b>
-              </a>
-              <ul aria-labelledby="past-cgos-dropdown" class="dropdown-menu">
-                <li><a href="http://cgo.org/cgo2017">2017</a></li>
-                <li><a href="http://cgo.org/cgo2016">2016</a></li>
-                <li><a href="http://cgo.org/cgo2015">2015</a></li>
-                <li><a href="http://cgo.org/cgo2014">2014</a></li>
-                <li><a href="http://cgo.org/cgo2013">2013</a></li>
-                <li><a href="http://cgo.org/cgo2012">2012</a></li>
-                <li><a href="http://cgo.org/cgo2011">2011</a></li>
-                <li><a href="http://cgo.org/cgo2010">2010</a></li>
-                <li><a href="http://cgo.org/cgo2009">2009</a></li>
-                <li><a href="http://cgo.org/cgo2008">2008</a></li>
-                <li><a href="http://cgo.org/cgo2007">2007</a></li>
-                <li><a href="http://cgo.org/cgo2006">2006</a></li>
-                <li><a href="http://cgo.org/cgo2005">2005</a></li>
-                <li><a href="http://cgo.org/cgo2004">2004</a></li>
-                <li><a href="http://cgo.org/cgo2003">2003</a></li>
-              </ul>
-            </li>
-          </ul> <!-- /.navbar-nav -->
-      </div> <!-- /.navbar-collapse -->
-    </div> <!-- /.container -->
-  </nav>
-
-  <div>
-    <div style="padding-bottom:0;" class="jumbotron">
-      <img style="width: 100%;" src="img/vienna.jpg" alt="Vienna, Austria"/>
-    </div>
-
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <h1 class="section-heading">
-              International Symposium on Code Generation and Optimization
-            </h1>
-            <p class="lead section-lead"><b>February 24 - 28th, Vienna, Austria</b></p>
-            <p class="lead section-lead">
-              Co-located with
-              <a href="http://conf.researchr.org/home/PPoPP-2018">PPoPP</a> -
-              <a href="http://hpca2018.ece.ucsb.edu/">HPCA</a> -
-              <!-- FIXME: CC CFP -->CC
-            </p>
-            <p class="lead section-paragraph">
-              The International Symposium on Code Generation and Optimization
-              (CGO) provides a premier venue to bring together researchers and
-              practitioners working at the interface of hardware and software on
-              a wide range of optimization and code generation techniques and
-              related issues. The conference spans the spectrum from purely
-              static to fully dynamic approaches, and from pure software-based
-              methods to specific architectural features and support for code
-              generation and optimization.
-            </p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6">
-            <div class="panel panel-default">
-              <div class="panel-heading"><b>Important Dates</b></div>
-
-              <table class="table">
-                <tbody>
-                  <tr>
-                    <td><!--<s>--><b>Sept 8, 2017:</b> Abstract Submission<!--</s>--></td>
-                  </tr>
-                  <tr>
-                    <td><b>Sept 15, 2017:</b> Paper Submission</td>
-                  </tr>
-                  <tr>
-                    <td><b>Oct 31, 2017:</b> Notification</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div> <!-- /.panel -->
-          </div> <!-- /.col-md-6 -->
-
-          <div class="col-md-6">
-            <div class="panel panel-default">
-              <div class="panel-heading"><b>Latest Updates</b></div>
-
-              <table class="table">
-                <tbody>
-                  <tr><td><b>May 22, 2017:</b> Website is live</td></tr>
-                </tbody>
-              </table>
-            </div> <!-- /.panel -->
-          </div> <!-- /.col-md-6 -->
-        </div> <!-- /.row -->
-
-        <div class="row">
-          <div class="col-lg-12">
-            <h2 class="section-heading">Call for Papers</h2>
-            <p>Original contributions are solicited on, but not limited to, the following topics:</p>
-
-            <ul>
-              <li>Code Generation, Translation, Transformation, and Optimization for performance, energy, virtualization, portability, security, or reliability concerns, and architectural support</li>
-              <li>Efficient execution of dynamically typed and higher-level languages</li>
-              <li>Optimization and code generation for emerging programming models, platforms, domain-specific languages</li>
-              <li>Dynamic/static, profile-guided, feedback-directed, and machine learning based optimization</li>
-              <li>Static, Dynamic, and Hybrid Analysis for performance, energy, memory locality, throughput or latency, security, reliability, or functional debugging</li>
-              <li>Program characterization methods</li>
-              <li>Efficient profiling and instrumentation techniques; architectural support</li>
-              <li>Novel and efficient tools</li>
-              <li>Compiler design, practice and experience</li>
-              <li>Compiler abstraction and intermediate representations</li>
-              <li>Vertical integration of language features, representations, optimizations, and runtime support for parallelism</li>
-              <li>Solutions that involve cross-layer (HW/OS/VM/SW) design and integration</li>
-              <li>Deployed dynamic/static compiler and runtime systems for general purpose, embedded system and Cloud/HPC platforms</li>
-              <li>Parallelism, heterogeneity, and reconfigurable architectures</li>
-              <li>Optimizations for heterogeneous or specialized targets, GPUs, SoCs, CGRA</li>
-              <li>Compiler support for vectorization, thread extraction, task scheduling, speculation, transaction, memory management, data distribution and synchronization</li>
-            </ul>
-
-          </div> <!-- /.col-lg-12 -->
-        </div> <!-- /.row -->
-
-        <div class="row">
-          <div class="col-lg-12">
-            <h2 class="section-heading">Organization</h2>
-            <h5>General Chairs</h5>
-            <table>
-              <tr><td>Jens Knoop</td><td>Vienna University of Technology, Austria</td></tr>
-              <tr><td>Markus Schordan</td><td>Lawrence Livermore National Laboratory</td></tr>
-            </table>
-
-            <h5>Program Chairs</h5>
-            <table>
-              <tr><td>Teresa Johnson</td><td>Google</td></tr>
-              <tr><td>Michael O'Boyle</td><td>University of Edinburgh</td></tr>
-            </table>
-
-            <h5>Program Committee</h5>
-            <table>
-              <tr><td>Albert Cohen</td><td>Inria</td></tr>
-              <tr><td>Antonia Zhai</td><td>University of Minnesota</td></tr>
-              <tr><td>Apan Qasem</td><td>Texas State / AMD Research</td></tr>
-              <tr><td>Ayal Zaks</td><td>Intel, Haifa</td></tr>
-              <tr><td>Carol Eidt</td><td>Microsoft</td></tr>
-              <tr><td>Chenggang Wu</td><td>Institute of Computing Technology, China</td></tr>
-              <tr><td>Cristina Silvano</td><td>Politecnico di Milano</td></tr>
-              <tr><td>David August</td><td>Princeton</td></tr>
-              <tr><td>Eva Darulova</td><td>MPI-SWS Germany</td></tr>
-              <tr><td>Evelyn Duesterwald</td><td>IBM</td></tr>
-              <tr><td>Fabrice Rastello</td><td>Inria</td></tr>
-              <tr><td>Guilherme Ottoni</td><td>Facebook</td></tr>
-              <tr><td>Hugh Leather</td><td>University of Edinburgh</td></tr>
-              <tr><td>Hyesoon Kim</td><td>Georgia Tech</td></tr>
-              <tr><td>Irene Finocchi</td><td>Sapienza University of Rome</td></tr>
-              <tr><td>Jaejin Lee</td><td>Seoul National University</td></tr>
-              <tr><td>Jeff Huang</td><td>Texas A&amp;M</td></tr>
-              <tr><td>Jingyue Wu</td><td>Waymo</td></tr>
-              <tr><td>Jörg Henkel</td><td>Karlsruhe Institute of Technology</td></tr>
-              <tr><td>Keshav Pingali</td><td>University of Texas, Austin</td></tr>
-              <tr><td>Lingjia Tang</td><td>University of Michigan</td></tr>
-              <tr><td>Mahmut T. Kandemir</td><td>Pennsylvania State University</td></tr>
-              <tr><td>Maria Garzaran</td><td>Intel, University of Illinois at Urbana-Champaign</td></tr>
-              <tr><td>Michael Carbin</td><td>MIT</td></tr>
-              <tr><td>Milind Chabbi</td><td>HP Labs</td></tr>
-              <tr><td>Norm Rubin</td><td>Nvidia</td></tr>
-              <tr><td>Robert Hundt</td><td>Google</td></tr>
-              <tr><td>Saman Amarasinghe</td><td>MIT</td></tr>
-              <tr><td>Sasa Misailovic</td><td>University of Illinois at Urbana-Champaign</td></tr>
-              <tr><td>Taewook Oh</td><td>Facebook</td></tr>
-              <tr><td>Tatiana Shpeisman</td><td>Intel</td></tr>
-              <tr><td>Tim Jones</td><td>University of Cambridge</td></tr>
-              <tr><td>Tipp Moseley</td><td> Google</td></tr>
-              <tr><td>Uma Srinivasan</td><td>Twitter</td></tr>
-              <tr><td>Wei-Chung Hsu</td><td>NTU (National Taiwan University)</td></tr>
-              <tr><td>Xu Liu</td><td>College of William and Mary</td></tr>
-              <tr><td>Zehra Sura</td><td>IBM Research</td></tr>
-            </table>
-          </div> <!-- /.col-lg-12 -->
-        </div> <!-- /.row -->
-
-          <div class="row">
-            <div class="col-lg-12">
-              <h2 class="section-heading">Sponsors</h2>
-            </div>
-          </div>
-          <div class="row sponsors">
-            <div class="col-sm-4"><img src="img/sponsors/acm.gif" /></div>
-            <div class="col-sm-4"><img src="img/sponsors/ieee.png" /></div>
-            <div class="col-sm-4"><img src="img/sponsors/sigmicro.jpg" /></div>
-          </div> <!-- /.row -->
-          <div class="row sponsors">
-            <div class="col-sm-4"><img src="img/sponsors/sigplan.png" /></div>
-          </div> <!-- /.row -->
-        </div>
-      </section>
-    </div>
-
-    <footer>
-      <div class="container">
-        <hr>
-        <div class="row" style="padding-bottom: 1em;">
-          <div class="col-lg-12 text-center">
-            <p>Copyright &copy; 2017 International Symposium on Code Generation and Optimization.</p>
-            <p>Website by <a href="http://chriscummins.cc">Chris Cummins</a>.
-            Vienna Skyline photo by <a href="https://commons.wikimedia.org/wiki/File:Vienna_Skyline.jpg">Fabian Lackner</a>.</p>
-          </div>
-        </div>
+<section class="no-top-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="section-heading" style="margin-bottom:.2em;">
+          International Symposium on Code Generation and Optimization
+        </h1>
+        <p class="lead section-lead"><b>February 24 - 28th, Vienna, Austria</b></p>
+        <p class="lead section-lead">
+          Co-located with
+          <a href="http://conf.researchr.org/home/PPoPP-2018">PPoPP</a> -
+          <a href="http://hpca2018.ece.ucsb.edu/">HPCA</a>
+        </p>
+        <p class="lead section-paragraph">
+          The International Symposium on Code Generation and Optimization
+          (CGO) provides a premier venue to bring together researchers and
+          practitioners working at the interface of hardware and software on
+          a wide range of optimization and code generation techniques and
+          related issues. The conference spans the spectrum from purely
+          static to fully dynamic approaches, and from pure software-based
+          methods to specific architectural features and support for code
+          generation and optimization.
+        </p>
       </div>
-    </footer>
-  </div> <!-- #app -->
+    </div>
 
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script type="text/javascript">!function(a,b,c,d,e,f,g){a.GoogleAnalyticsObject=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=1*new Date,f=b.createElement(c),g=b.getElementsByTagName(c)[0],f.async=1,f.src=d,g.parentNode.insertBefore(f,g)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga"),ga("create","UA-99668416-1","auto"),ga("send","pageview");</script>
-</body>
-</html>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading"><b>Important Dates</b></div>
+
+          <table class="table">
+            <tbody>
+              <tr>
+                <td><!--<s>--><b>Sept 8, 2017:</b> Abstract Submission<!--</s>--></td>
+              </tr>
+              <tr>
+                <td><b>Sept 15, 2017:</b> Paper Submission</td>
+              </tr>
+              <tr>
+                <td><b>Oct 31, 2017:</b> Notification</td>
+              </tr>
+            </tbody>
+          </table>
+        </div> <!-- /.panel -->
+      </div> <!-- /.col-md-6 -->
+
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading"><b>Latest Updates</b></div>
+
+          <table class="table">
+            <tbody>
+              <tr><td><b>May 22, 2017:</b> Website is live</td></tr>
+            </tbody>
+          </table>
+        </div> <!-- /.panel -->
+      </div> <!-- /.col-md-6 -->
+    </div> <!-- /.row -->
+
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 class="section-heading">Call for Papers</h2>
+        <p>Original contributions are solicited on, but not limited to, the following topics:</p>
+
+        <ul>
+          <li>Code Generation, Translation, Transformation, and Optimization for performance, energy, virtualization, portability, security, or reliability concerns, and architectural support</li>
+          <li>Efficient execution of dynamically typed and higher-level languages</li>
+          <li>Optimization and code generation for emerging programming models, platforms, domain-specific languages</li>
+          <li>Dynamic/static, profile-guided, feedback-directed, and machine learning based optimization</li>
+          <li>Static, Dynamic, and Hybrid Analysis for performance, energy, memory locality, throughput or latency, security, reliability, or functional debugging</li>
+          <li>Program characterization methods</li>
+          <li>Efficient profiling and instrumentation techniques; architectural support</li>
+          <li>Novel and efficient tools</li>
+          <li>Compiler design, practice and experience</li>
+          <li>Compiler abstraction and intermediate representations</li>
+          <li>Vertical integration of language features, representations, optimizations, and runtime support for parallelism</li>
+          <li>Solutions that involve cross-layer (HW/OS/VM/SW) design and integration</li>
+          <li>Deployed dynamic/static compiler and runtime systems for general purpose, embedded system and Cloud/HPC platforms</li>
+          <li>Parallelism, heterogeneity, and reconfigurable architectures</li>
+          <li>Optimizations for heterogeneous or specialized targets, GPUs, SoCs, CGRA</li>
+          <li>Compiler support for vectorization, thread extraction, task scheduling, speculation, transaction, memory management, data distribution and synchronization</li>
+        </ul>
+
+        <p>
+        A full list of committee members is available on the <a href="{{ '/organization/' | relative_url }}">organization page</a>.
+        </p>
+      </div> <!-- /.col-lg-12 -->
+    </div> <!-- /.row -->
+
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 class="section-heading">Sponsors</h2>
+      </div>
+    </div>
+    <div class="row sponsors">
+      <div class="col-sm-4"><img src="{{ '/img/sponsors/acm.gif' | relative_url }}" /></div>
+      <div class="col-sm-4"><img src="{{ '/img/sponsors/ieee.png' | relative_url }}" /></div>
+      <div class="col-sm-4"><img src="{{ '/img/sponsors/sigmicro.jpg' | relative_url }}" /></div>
+    </div> <!-- /.row -->
+    <div class="row sponsors">
+      <div class="col-sm-4"><img src="{{ '/img/sponsors/sigplan.png' | relative_url }}" /></div>
+    </div> <!-- /.row -->
+  </div> <!-- /.container -->
+</section>
