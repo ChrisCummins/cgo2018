@@ -1,4 +1,4 @@
-.PHONY: all, run, help
+.PHONY: all, run, help, push, publish
 
 all:
 	bundle install
@@ -7,15 +7,12 @@ all:
 run:
 	bundle exec jekyll serve --drafts --host=0.0.0.0
 
-ls-unused-banners:
-	@mkdir -p .build
-	@ls img/banners/* | sed 's,^,/,' > .build/banners.txt
-	@git grep -h 'banner:' | awk '{print $$2;}' | sort -u > .build/used-banners.txt
-	@grep -F -x -v -f .build/used-banners.txt .build/banners.txt
+push publish:
+	cd _site && rsync -avh . $$CGO/
 
 help:
-	@echo "usage: make {all,run,ls-unused-banners}"
+	@echo "usage: make {all,run,push}"
 	@echo
 	@echo "   all                 build site"
-	@echo "   run                 build and serve site on http://localhost:4000"
-	@echo "   ls-unused-banners   list banner images which have not appeared in posts"
+	@echo "   run                 build and serve site on http://localhost:5000"
+	@echo "   push                deploy built site to cgo.org"
