@@ -10,6 +10,7 @@ run:
 
 push publish:
 	cd _site && rsync -avh . $$CGO/
+	sleep 2 && open http://cgo.org/cgo2018/
 
 help:
 	@echo "usage: make {all,run,push}"
