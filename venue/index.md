@@ -1,12 +1,14 @@
 ---
 title: Venue
-layout: markdown
+layout: hero
+hero: /img/hotel.jpg
+footer: 'Hotel photographs copyright <a href="https://www.austria-trend.at/en/hotels/eventhotel-pyramide">Austria Trend Eventhotel Pyramide</a>.'
 ---
 
 # Venue and Travel Information
 
 <p class="lead">
-CGO 2018 will be held at the <a href="https://www.austria-trend.at/de/hotels/eventhotel-pyramide">Eventhotel Pyramide</a>, located in:<br/>
+CGO 2018 will be held at the <a href="https://www.austria-trend.at/en/hotels/eventhotel-pyramide">Austria Trend Eventhotel Pyramide</a>, located in:<br/>
 Parkallee 2, 2334 Vösendorf, Austria
 </p>
 
