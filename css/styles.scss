@@ -5,6 +5,10 @@ html {
     min-width: 320px;
 }
 
+body {
+    font-size: 16px;
+}
+
 .sponsors img {
     width: 100%;
     max-width: 350px;
@@ -16,6 +20,13 @@ section img {
 
 h1 {
     margin-bottom: .7em;
+}
+h4, h5 {
+    font-size: 16px;
+}
+
+.navbar {
+    font-size: 14px;
 }
 
 /* organization members */
