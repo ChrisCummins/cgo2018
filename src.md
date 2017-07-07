@@ -48,4 +48,5 @@ Optimization and code generation for emerging programming models, platforms, dom
 </div>
 <div class="row sponsors">
   <div class="col-sm-4"><img src="{{ '/img/sponsors/microsoft.svg' | relative_url }}" /></div>
+  <div class="col-sm-4"><img src="{{ '/img/sponsors/acm.gif' | relative_url }}" /></div>
 </div> <!-- /.row -->
