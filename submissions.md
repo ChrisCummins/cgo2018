@@ -7,7 +7,9 @@ layout: content
 
 ## Submission Site
 
-Papers can be submitted at: [https://cgo18.hotcrp.com](https://cgo18.hotcrp.com).
+<p class="lead">
+Papers can be submitted at <b><a href="https://cgo18.hotcrp.com">https://cgo18.hotcrp.com</a></b>.
+</p>
 
 ## Submission Guidelines
 
