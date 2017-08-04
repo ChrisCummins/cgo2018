@@ -7,7 +7,7 @@ layout: content
 
 ## Submission Site
 
-The paper submission site will open **Aug 4, 2017**.
+Papers can be submitted at: [https://cgo18.hotcrp.com](https://cgo18.hotcrp.com).
 
 ## Submission Guidelines
 
