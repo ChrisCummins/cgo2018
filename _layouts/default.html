@@ -38,6 +38,17 @@ layout: compress
         <div class="collapse navbar-collapse" id="navbar-collapse">
           <ul class="nav navbar-nav">
             <li {% if page.url == "/" %}class="active"{% endif %}><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li class="dropdown">
+              <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="calls-dropdown" role="button">
+                Calls
+                <b class="caret"></b>
+              </a>
+              <ul aria-labelledby="calls-dropdown" class="dropdown-menu">
+                <li><a href="{{ '/cfp/' | relative_url }}">Call for Papers</a></li>
+                <li><a href="{{ '/workshops/' | relative_url }}">Workshops and Tutorials</a></li>
+                <li><a href="{{ '/src/' | relative_url }}">Student Research Competition</a></li>
+              </ul>
+            </li>
             <li class="dropdown {% if page.url == "/submissions/" %}active{% endif %}">
               <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="submissions-dropdown" role="button">
                 Submissions
@@ -46,11 +57,10 @@ layout: compress
               <ul aria-labelledby="submissions-dropdown" class="dropdown-menu">
                 <li><a href="{{ '/submissions/' | relative_url }}">Submission information</a></li>
                 <li><a href="https://cgo18.hotcrp.com">Submissions site</a></li>
+                <li><a href="http://ctuning.org/ae/cgo2018.html">Artifact Evaluation site</a></li>
               </ul>
+            </li>
             <li {% if page.url == "/venue/" %}class="active"{% endif %}><a href="{{ '/venue/' | relative_url }}">Venue</a></li>
-            <li {% if page.url == "/workshops/" %}class="active"{% endif %}><a href="{{ '/workshops/' | relative_url }}">Workshops</a></li>
-            <li {% if page.url == "/src/" %}class="active"{% endif %}><a href="{{ '/src/' | relative_url }}">SRC</a></li>
-            <li><a href="http://ctuning.org/ae/cgo2018.html">Artifact Evaluation</a></li>
             <li {% if page.url == "/organization/" %}class="active"{% endif %}><a href="{{ '/organization/' | relative_url }}">Organization</a></li>
             <li {% if page.url == "/subscribe/" %}class="active"{% endif %}><a href="{{ '/subscribe/' | relative_url }}">Mailing List</a></li>
           </ul> <!-- /.navbar-nav -->
