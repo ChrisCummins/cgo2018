@@ -60,16 +60,8 @@ layout: compress
                 <li><a href="http://ctuning.org/ae/cgo2018.html">Artifact Evaluation site</a></li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" id="travel-dropdown" role="button">
-                Travel Information
-                <b class="caret"></b>
-              </a>
-              <ul aria-labelledby="travel-dropdown" class="dropdown-menu">
-                <li {% if page.url == "/venue/" %}class="active"{% endif %}><a href="{{ '/venue/' | relative_url }}">Venue</a></li>
-                <li {% if page.url == "/travel-grants/" %}class="active"{% endif %}><a href="{{ '/travel-grants/' | relative_url }}">Travel grants</a></li>
-              </ul>
-            </li>
+            <li {% if page.url == "/venue/" %}class="active"{% endif %}><a href="{{ '/venue/' | relative_url }}">Venue</a></li>
+            <li {% if page.url == "/travel-grants/" %}class="active"{% endif %}><a href="{{ '/travel-grants/' | relative_url }}">Travel grants</a></li>
             <li {% if page.url == "/organization/" %}class="active"{% endif %}><a href="{{ '/organization/' | relative_url }}">Organization</a></li>
             <li {% if page.url == "/subscribe/" %}class="active"{% endif %}><a href="{{ '/subscribe/' | relative_url }}">Mailing List</a></li>
           </ul> <!-- /.navbar-nav -->
