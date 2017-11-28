@@ -11,4 +11,4 @@ The United States Department of State provides a list of countries that are part
 
 ## Invitation Letter
 
-If you need an invitation letter to CGO 2018, you should register for the conference first and then **contact supportletters@acm.org. For more details on procedure, please visit this link:** [http://www.acm.org/sigs/volunteer_resources/conference_manual/visas](http://www.acm.org/sigs/volunteer_resources/conference_manual/visas]).
+If you need an invitation letter to CGO 2018, you should register for the conference first and then **contact supportletters@acm.org. For more details on procedure, please visit this link:** [https://www.acm.org/special-interest-groups/volunteer-resources/conference-manual/visa-support-letters](https://www.acm.org/special-interest-groups/volunteer-resources/conference-manual/visa-support-letters).
