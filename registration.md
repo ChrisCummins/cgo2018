@@ -60,7 +60,7 @@ One complimentary [Heurigen](https://en.wikipedia.org/wiki/Heuriger) Ticket is i
 | Extra Banquet Ticket on Tue Feb 27th	| € 99 |
 | Extra Ticket for the Reception on Sun Feb 25th	| € 55 |
 | Extra Ticket for the [Heurigen](https://en.wikipedia.org/wiki/Heuriger) on Sat Feb 24th	| € 66 |
-| CGO'18 authors can purchase extra pages	€ 88 | per page |
+| CGO'18 authors can purchase extra pages |	€ 88 per page |
 
 ## Badges and Security
 
