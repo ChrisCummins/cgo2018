@@ -49,13 +49,30 @@ Please note that workshops/tutorials are not included with the main conference r
 | Student or retired/lifetime ACM/SIG/IEEE/OCG Members   | € 242  | € 275 |
 | Student Non-ACM/SIG/IEEE/OCG Members   | € 242  | € 275 |
 
+### Other Services
+
+One complimentary Banquet Ticket is included in the conference fee.
+
+One complimentary Reception Ticket is included in the conference fee.
+
+One complimentary [Heurigen](https://en.wikipedia.org/wiki/Heuriger) Ticket is included in the 2 day workshop/tutorial fee.
+
+| Extra Banquet Ticket on Tue Feb 27th	| € 99 |
+| Extra Ticket for the Reception on Sun Feb 25th	| € 55 |
+| Extra Ticket for the [Heurigen](https://en.wikipedia.org/wiki/Heuriger) on Sat Feb 24th	| € 66 |
+| PPoPP’18 authors can purchase extra pages	€ 88 | per page |
+
 ## Badges and Security
 
 It is essential that you wear your personal badge at all times while in the Conference venue and during the Social Events, as it is the official entrance pass to scientific sessions. For the Social Events, it will also be necessary to present the corresponding ticket.
 
 ## Lunches and coffee breaks
 
-Conference lunches and coffee-breaks will be provided by the Organization.
+Only lunches and coffee-breaks are included in the conference and workshop fees. Breakfast is included in the room rate.
+
+Travel information is available at PPoPP:
+
+[https://ppopp18.sigplan.org/attending/travel-information](https://ppopp18.sigplan.org/attending/travel-information)
 
 ## Medical Assistance and Insurance
 
@@ -63,4 +80,4 @@ Participants are advised to make their own arrangements regarding travel insuran
 
 ## Questions regarding Registration
 
-If you have questions regarding registration please contact [shop@ocg.at](shop@ocg.at).
+If you have questions regarding registration please contact [shop@ocg.at](mailto:shop@ocg.at).
