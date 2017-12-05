@@ -6,6 +6,7 @@ layout: content
 # Registration
 
 ## Visa Information: [Click Here](http://cgo.org/cgo2018/visas/)
+## Travel Information: [Click Here](https://ppopp18.sigplan.org/attending/travel-information)
 ## Registration Link: [Click Here](https://shop.ocg.at/en/events/cgo-2018.html)
 
 <p class="lead">
@@ -69,10 +70,6 @@ It is essential that you wear your personal badge at all times while in the Conf
 ## Lunches and coffee breaks
 
 Only lunches and coffee-breaks are included in the conference and workshop fees. Breakfast is included in the room rate.
-
-Travel information is available at PPoPP:
-
-[https://ppopp18.sigplan.org/attending/travel-information](https://ppopp18.sigplan.org/attending/travel-information)
 
 ## Medical Assistance and Insurance
 
