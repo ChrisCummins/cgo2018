@@ -27,7 +27,7 @@ Peng Jiang, Gagan Agrawal (The Ohio State University)<br/><br/>
 Du Shen (College of William and Mary), Ang Li, Shuaiwen Leon Song (Pacific Northwest National Laboratory), Xu Liu (College of William and Mary)<br/><br/>
 
 <b>CVR: Efficient SpMV Vectorization on X86 Processors</b><br/>
-Biwei Xie, Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences), Xu Liu (College of William and Mary), Zhen Jia (Princeton University), Wanling Gao, Lixin Zhang (Institute of Computing Technology, Chinese Academy of Sciences)<br/><br/>
+Biwei Xie, Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences), Xu Liu (College of William and Mary), Wanling Gao, Xiwen He (Institute of Computing Technology, Chinese Academy of Sciences), Zhen Jia (Princeton University), Lixin Zhang (Institute of Computing Technology, Chinese Academy of Sciences)<br/><br/>
 
 <b>DeLICM: Scalar Memory Dependence Removal at Zero Memory Cost</b><br/>
 Michael Kruse (Inria), Tobias Grosser (ETH Zürich)<br/><br/>
@@ -83,8 +83,8 @@ Long Zheng, Xiaofei Liao, Hai Jin, Jieshan Zhao, Qinggang Wang (Huazhong Univers
 <b>SIMD Intrinsics on Managed Language Runtimes</b><br/>
 Alen Stojanov, Ivaylo Toskov (ETH Zurich), Tiark Rompf (Purdue University), Markus Püschel (ETH Zurich)<br/><br/>
 
-<b>Synthesizing Instruction Selection</b><br/>
-Sebastian Buchwald, Andreas Fried (Karlsruhe Institute of Technology), Sebastian Hack (Saarland University), Sebastian Buchwald (Karlsruhe Institute of Technology)<br/><br/>
+<b>Synthesizing an Instruction Selection Rule Library from Semantic Specifications</b><br/>
+Sebastian Buchwald, Andreas Fried (Karlsruhe Institute of Technology), Sebastian Hack (Saarland University)<br/><br/>
 
 <b>Synthesizing Programs that Expose Performance Bottlenecks</b><br/>
 Luca Della Toffola (ETH Zurich), Michael Pradel (TU Darmstadt), Thomas R. Gross (ETH Zurich)<br/><br/>
