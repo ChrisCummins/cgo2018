@@ -26,7 +26,7 @@ Peng Jiang, Gagan Agrawal (The Ohio State University)<br/><br/>
 <b>CUDAAdvisor: LLVM-based Runtime Profiling for Modern GPUs</b><br/>
 Du Shen (College of William and Mary), Ang Li, Shuaiwen Leon Song (Pacific Northwest National Laboratory), Xu Liu (College of William and Mary)<br/><br/>
 
-<b>CVR: Efficient SpMV Vectorization on X86 Processors</b><br/>
+<b>CVR: Efficient Vectorization of SpMV on X86 Processors</b><br/>
 Biwei Xie, Jianfeng Zhan (Institute of Computing Technology, Chinese Academy of Sciences), Xu Liu (College of William and Mary), Wanling Gao, Xiwen He (Institute of Computing Technology, Chinese Academy of Sciences), Zhen Jia (Princeton University), Lixin Zhang (Institute of Computing Technology, Chinese Academy of Sciences)<br/><br/>
 
 <b>DeLICM: Scalar Memory Dependence Removal at Zero Memory Cost</b><br/>
