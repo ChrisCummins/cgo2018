@@ -5,10 +5,6 @@ layout: content
 
 # Registration
 
-## Visa Information: [Click Here](http://cgo.org/cgo2018/visas/)
-## Travel Information: [Click Here](https://ppopp18.sigplan.org/attending/travel-information)
-## Registration Link: [Click Here](https://shop.ocg.at/en/events/cgo-2018.html)
-
 <p class="lead">
 Registration and payment of fees will be absolutely necessary for attending any of the Conference Events. The registration system charges in Euro (€) and includes 10% VAT. No registration will be considered until the payment is received. We list the registration fees in tables below.
 </p>

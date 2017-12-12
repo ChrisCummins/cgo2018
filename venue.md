@@ -5,7 +5,7 @@ hero: /img/hotel.jpg
 footer: 'Hotel photographs copyright <a href="https://www.austria-trend.at/en/hotels/eventhotel-pyramide">Austria Trend Eventhotel Pyramide</a>.'
 ---
 
-# Venue and Travel Information
+# Venue
 
 <p class="lead">
 CGO 2018 will be held at the <a href="https://www.austria-trend.at/en/hotels/eventhotel-pyramide">Austria Trend Eventhotel Pyramide</a>, located in:<br/>
