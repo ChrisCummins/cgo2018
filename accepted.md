@@ -63,7 +63,7 @@ Xinwei Fu, Dongyoon Lee, Changhee Jung (Virginia Tech)<br/><br/>
 Andrew Anderson, David Gregg (Trinity College Dublin)<br/><br/>
 
 <b>Poker: Permutation-based SIMD Execution of Intensive Tree Search by Path Encoding</b><br/>
-Feng Zhang, Jingling Xue, Feng Zhang (UNSW)<br/><br/>
+Feng Zhang, Jingling Xue (UNSW)<br/><br/>
 
 <b>Program Generation for Small-Scale Linear Algebra Applications</b><br/>
 Daniele G. Spampinato (ETH Zürich, Switzerland), Diego Fabregat-Traver, Paolo Bientinesi (RWTH Aachen, Germany), Markus Püschel (ETH Zürich, Switzerland)<br/><br/>
