@@ -3,7 +3,9 @@ title: Registration
 layout: content
 ---
 
-# Registration
+# Registration Information
+
+## Registration Site: [Click Here](https://shop.ocg.at/en/events/cgo-2018.html)
 
 <p class="lead">
 Registration and payment of fees will be absolutely necessary for attending any of the Conference Events. The registration system charges in Euro (€) and includes 10% VAT. No registration will be considered until the payment is received. We list the registration fees in tables below.
