@@ -1,9 +1,9 @@
 ---
-title: Accepted SRC Papers
+title: Accepted SRC Abstracts
 layout: content
 ---
 
-# Accepted SRC Papers
+# Accepted SRC Abstracts
 
 <b>A C++/CUDA DSL for Object-oriented Programming with Structure-of-Arrays Data Layout</b><br/>
 Matthias Springer (Tokyo Institute of Technology)<br/><br/>
