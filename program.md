@@ -19,7 +19,7 @@ layout: content
 | | nAdroid: Statically Detecting Ordering Violations in Android Applications |
 | | SGXElide: Enabling Enclave Code Secrecy via Self-Modification |
 
-| 15:15 - 16:55 | **Session 3: Best Papers** |
+| 15:15 - 16:55 | **Session 3: Best Paper Finalists** |
 | | Poker: Permutation-based SIMD Execution of Intensive Tree Search by Path Encoding |
 | | High Performance Stencil Code Generation with LIFT |
 | | Qubit Allocation |
