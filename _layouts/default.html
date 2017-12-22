@@ -44,6 +44,7 @@ layout: compress
                 <b class="caret"></b>
               </a>
               <ul aria-labelledby="attending-dropdown" class="dropdown-menu">
+                <li {% if page.url == "/program/" %}class="active"{% endif %}><a href="{{ '/program/' | relative_url }}">Program</a></li>
                 <li {% if page.url == "/venue/" %}class="active"{% endif %}><a href="{{ '/venue/' | relative_url }}">Venue &amp; Banquet</a></li>
                 <li {% if page.url == "/registration/" %}class="active"{% endif %}><a href="{{ '/registration/' | relative_url }}">Registration Information</a></li>
                 <li><a href="https://shop.ocg.at/en/events/cgo-2018.html" target="_blank">Registration Site</a></li>
