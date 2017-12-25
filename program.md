@@ -12,7 +12,7 @@ layout: content
 <tr><td>08:30 - 10:00</td><td>LLVM Tutorial 1<br></td></tr>
 <tr><td></td><td>RWDSL’18 Session 1</td></tr>
 
-<tr><td>10:00 - 10:30</td><td>Coffee Bread</td></tr>
+<tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
 <tr><td>10:30 - 12:00</td><td>LLVM Tutorial 2<br></td></tr>
 <tr><td></td><td>RWDSL’18 Session 2</td></tr>
@@ -32,23 +32,19 @@ layout: content
 ### Workshop/Tutorials Day Two: Sunday 25th
 
 <table>
-<tr><td>08:30 - 10:00</td><td>DCAHPO Session 1<br></td></tr>
-<tr><td></td><td>Improving security with reversibility and session types Session 1</td></tr>
+<tr><td>08:30 - 10:00</td><td>Improving security with reversibility and session types Session 1<br></td></tr>
 
-<tr><td>10:00 - 10:30</td><td>Coffee Bread</td></tr>
+<tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td>DCAHPO Session 2<br></td></tr>
-<tr><td></td><td>Improving security with reversibility and session types Session 2</td></tr>
+<tr><td>10:30 - 12:00</td><td>Improving security with reversibility and session types Session 2<br></td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td>DCAHPO Session 3<br></td></tr>
-<tr><td></td><td>Improving security with reversibility and session types Session 3</td></tr>
+<tr><td>13:30 - 15:00</td><td>Improving security with reversibility and session types Session 3<br></td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td>DCAHPO Session 4<br></td></tr>
-<tr><td></td><td>RImproving security with reversibility and session types Session 4</td></tr>
+<tr><td>15:30 - 17:00</td><td>Improving security with reversibility and session types Session 4<br></td></tr>
 
 <tr><td>18:00-20:00</td><td>HPCA/CGO/PPoPP Welcome Reception and Poster Session</td></tr>
 </table>
