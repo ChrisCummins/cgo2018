@@ -10,41 +10,41 @@ layout: content
 
 <table>
 <tr><td>08:30 - 10:00</td><td>LLVM Tutorial 1<br></td></tr>
-<tr><td></td><td>RWDSL’18 Session 1</td></tr>
+<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 1</td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
 <tr><td>10:30 - 12:00</td><td>LLVM Tutorial 2<br></td></tr>
-<tr><td></td><td>RWDSL’18 Session 2</td></tr>
+<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 2</td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
 <tr><td>13:30 - 15:00</td><td>LLVM Performance Workshop 1<br></td></tr>
-<tr><td></td><td>RWDSL’18 Session 3</td></tr>
+<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 3</td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
 <tr><td>15:30 - 17:00</td><td>LLVM Performance Workshop 2<br></td></tr>
-<tr><td></td><td>RWDSL’18 Session 4</td></tr>
+<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 4</td></tr>
 </table>
 
 
 ### Workshop/Tutorials Day Two: Sunday 25th
 
 <table>
-<tr><td>08:30 - 10:00</td><td>Improving security with reversibility and session types Session 1<br></td></tr>
+<tr><td>08:30 - 10:00</td><td>Tutorial: Improving security with reversibility and session types Session 1<br></td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td>Improving security with reversibility and session types Session 2<br></td></tr>
+<tr><td>10:30 - 12:00</td><td>Tutorial: Improving security with reversibility and session types Session 2<br></td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td>Improving security with reversibility and session types Session 3<br></td></tr>
+<tr><td>13:30 - 15:00</td><td>Tutorial: Improving security with reversibility and session types Session 3<br></td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td>Improving security with reversibility and session types Session 4<br></td></tr>
+<tr><td>15:30 - 17:00</td><td>Tutorial: Improving security with reversibility and session types Session 4<br></td></tr>
 
 <tr><td>18:00-20:00</td><td>HPCA/CGO/PPoPP Welcome Reception and Poster Session</td></tr>
 </table>
@@ -55,7 +55,8 @@ layout: content
 <table>
 <tr><td>08:30 - 08:45</td><td>Opening</td></tr>
 
-<tr><td>08:45 - 09:55</td><td>Keynote</td></tr>
+<tr><td>08:45 - 09:55</td><td>Keynote: <b>What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</b></td></tr>
+<tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
 
 <tr><td>09:55 - 10:20</td><td>Coffee Break</td></tr>
 
@@ -141,7 +142,8 @@ layout: content
 
 <tr><td>11:45 - 13:15</td><td>Lunch</td></tr>
 
-<tr><td>13:15 - 14:25</td><td>Keynote</td></tr>
+<tr><td>13:15 - 14:25</td><td>Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b></td></tr>
+<tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
 
 <tr><td>14:25 - 14:50</td><td>Coffee Break</td></tr>
 
