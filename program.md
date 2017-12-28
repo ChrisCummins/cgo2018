@@ -64,7 +64,7 @@ layout: content
 <tr><td></td><td>
     <ul>
         <li><b>SIMD Intrinsics on Managed Language Runtimes</b><br>
-            <i>Feng Zhang and Jingling Xue (UNSW, Australia)</i></li>
+            <i>Alen Stojanov, Ivaylo Toskov (ETH Zurich), Tiark Rompf (Purdue University), Markus Püschel (ETH Zurich)</i></li>
         <li><b>CollectionSwitch: A Framework for Efficient and Dynamic Collection Selection</b><br>
             <i>Diego Costa and Artur Andrzejak (University of Heidelberg, Germany)</i></li>
         <li><b>Analyzing and Optimizing Task Granularity on the JVM</b><br>
