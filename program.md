@@ -55,7 +55,7 @@ layout: content
 <table>
 <tr><td>08:30 - 08:45</td><td>Opening</td></tr>
 
-<tr><td>08:45 - 09:55</td><td>Keynote: <b>What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</b></td></tr>
+<tr><td>08:45 - 09:55</td><td>HPCA Keynote: <b>What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</b></td></tr>
 <tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
 
 <tr><td>09:55 - 10:20</td><td>Coffee Break</td></tr>
@@ -142,8 +142,8 @@ layout: content
 
 <tr><td>11:45 - 13:15</td><td>Lunch</td></tr>
 
-<tr><td>13:15 - 14:25</td><td>Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b></td></tr>
-<tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
+<tr><td>13:15 - 14:25</td><td>CGO Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b></td></tr>
+<tr><td></td><td>Sara-Jane Dunn (Microsoft Research Limited)</td></tr>
 
 <tr><td>14:25 - 14:50</td><td>Coffee Break</td></tr>
 
@@ -165,7 +165,7 @@ layout: content
 ### Main Conference Day Three: Wednesday 28th
 
 <table>
-<tr><td>08:00 - 09:00</td><td>Keynote</td></tr>
+<tr><td>08:00 - 09:00</td><td>PPoPP Keynote</td></tr>
 
 <tr><td>09:00 - 09:25</td><td>Coffee Break</td></tr>
 

@@ -7,6 +7,8 @@ layout: content
 
 ## Biological Computation
 
+**CGO Keynote**
+
 **Speaker:** Sara-Jane Dunn, Scientist, Biological Computation, Microsoft Research Limited
 
 **Abstract:** Unlike engineered systems, living cells self-generate, self-organise and self-repair, they undertake massively parallel operations with slow and noisy components in a noisy environment, they sense and actuate at molecular scales, and most intriguingly, they blur the line between software and hardware. Understanding this biological computation presents a huge challenge to the scientific community. Yet the ultimate destination and prize at the culmination of this scientific journey is the promise of revolutionary and transformative technology: the rational design and implementation of biological function, or more succinctly, the ability to program life.
