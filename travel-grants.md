@@ -20,15 +20,15 @@ Information for how to apply for an NSF grant can be found
 Information for how to apply for a SIGPLAN grant can be found
 [here](http://www.sigplan.org/PAC/).
 
-### TC-MICRO Grant
+### SIGMICRO Grant
 
 In addition to the NSF and SIGPLAN funding, CGO 2018 is also offering travel
 support to encourage student participation at the conference through the
-generous support of TC-MICRO. This support is specifically provided for
+generous support of SIGMICRO. This support is specifically provided for
 increasing the participation of students who would otherwise not be able to
-attend CGO and are students who are members of an underrepresented group
-(including women) and/or students from small institutions and universities that
-do not have a strong tradition in the CGO.
+attend CGO and are members of an underrepresented group (including women) and/or
+students from small institutions and universities that do not have a strong
+tradition of attending CGO.
 
 The travel grant application must include:
 
@@ -44,5 +44,5 @@ eligibility and recommending the student to attend CGO
  * An estimate of conference-related expenses
 
 Please send your application by email to Simone Campanoni
-(simonec@eecs.northwestern.edu). Use the subject line "CGO 2018 TC-MICRO Student
+(simonec@eecs.northwestern.edu). Use the subject line "CGO 2018 SIGMICRO Student
 Travel Grant Application.".
