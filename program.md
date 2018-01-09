@@ -9,22 +9,22 @@ layout: content
 ### Workshop/Tutorials Day One: Saturday 24th
 
 <table>
-<tr><td>08:30 - 10:00</td><td>LLVM Tutorial 1<br></td></tr>
+<tr><td>08:30 - 10:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 1<br></td></tr>
 <tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 1</td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td>LLVM Tutorial 2<br></td></tr>
+<tr><td>10:30 - 12:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 2<br></td></tr>
 <tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 2</td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td>LLVM Performance Workshop 1<br></td></tr>
+<tr><td>13:30 - 15:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 1<br></td></tr>
 <tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 3</td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td>LLVM Performance Workshop 2<br></td></tr>
+<tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2<br></td></tr>
 <tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 4</td></tr>
 </table>
 
@@ -32,19 +32,19 @@ layout: content
 ### Workshop/Tutorials Day Two: Sunday 25th
 
 <table>
-<tr><td>08:30 - 10:00</td><td>Tutorial: Improving security with reversibility and session types Session 1<br></td></tr>
+<tr><td>08:30 - 10:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 1<br></td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td>Tutorial: Improving security with reversibility and session types Session 2<br></td></tr>
+<tr><td>10:30 - 12:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 2<br></td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td>Tutorial: Improving security with reversibility and session types Session 3<br></td></tr>
+<tr><td>13:30 - 15:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 3<br></td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td>Tutorial: Improving security with reversibility and session types Session 4<br></td></tr>
+<tr><td>15:30 - 17:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 4<br></td></tr>
 
 <tr><td>18:00-20:00</td><td>HPCA/CGO/PPoPP Welcome Reception and Poster Session</td></tr>
 </table>
