@@ -5,6 +5,17 @@ layout: content
 
 # Keynotes
 
+## What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?
+
+**HPCA Keynote**
+
+**Speaker:** Margaret Martonosi (H. T. Adams '35 Professor of Computer Science, Princeton University)
+
+**Abstract:** In the past 3-5 years, Quantum Computing has reached an interesting and important inflection point. For decades, quantum computing research was comprised of very abstract mathematical algorithms development "up high" that demonstrated some potential for future impact, and physics device demonstrations "down low" that were modest in size but that offered some hope for eventual implementations. However, with prominent QC algorithms like Shor's factoring algorithm needing roughly a million times more physical quantum bits (qubits) than successful implementations currently provide, there has been a cavernous gap between algorithm and implementation. In many ways, this gap resembles how classical computing looked in the early 1950's; as then, what is needed now are for architecture and systems researchers to develop the crucial intermediate tool flows and abstraction layers that will allow full-scale quantum systems to be built successfully on top of the limited and error-prone quantum bits currently or soon available in real systems. This talk will discuss a way forward for QC and paint a picture for the vital role that researchers from the architecture, compiler and programming languages communities must play in order for QC to reach its full potential.
+
+**Bio:** Margaret Martonosi is the Hugh Trumbull Adams '35 Professor of Computer Science at Princeton University, where she has been on the faculty since 1994. She is also currently serving as Director of the Keller Center for Innovation in Engineering Education. Martonosi's research interests are in computer architecture and mobile computing, with an increasing focus on hardware-software interfaces for post-Moore's Law systems. Her work has included the development of the Wattch power modeling tool and the Princeton ZebraNet mobile sensor network project for the design and real-world deployment of zebra tracking collars in Kenya. Martonosi is a Fellow of both IEEE and ACM. Notable awards include the 2010 Princeton University Graduate Mentoring Award, the 2013 Anita Borg Institute Technical Leadership Award, the 2015 ISCA Long-Term Influential Paper Award, and the 2017 ACM SIGMOBILE and ACM SenSys Test-of-Time Awards.
+
+
 ## Biological Computation
 
 **CGO Keynote**

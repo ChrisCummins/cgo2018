@@ -55,7 +55,7 @@ layout: content
 <table>
 <tr><td>08:30 - 08:45</td><td>Opening</td></tr>
 
-<tr><td>08:45 - 09:55</td><td>HPCA Keynote: <b>What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</b></td></tr>
+<tr><td>08:45 - 09:55</td><td>HPCA Keynote: <b><a href="{{ '/keynotes/#what-is-the-role-of-architecture-and-software-researchers-on-the-road-to-quantum-supremacy' | relative_url }}">What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</a></b></td></tr>
 <tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
 
 <tr><td>09:55 - 10:20</td><td>Coffee Break</td></tr>
