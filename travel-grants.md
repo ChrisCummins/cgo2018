@@ -7,10 +7,13 @@ layout: content
 
 CGO 2018 is now offering travel support for students attending US or non-US
 universities. Each application and the grant amount will be decided on a case-
-by-case basis (i.e. funding is NOT guaranteed). To apply for reimbursement,
-there are two options:
+by-case basis (i.e. funding is NOT guaranteed).
 
-### NSF Grant
+The deadline for submitting travel funding applications is **January 26, 2018**.
+
+To apply for reimbursement, there are three options:
+
+### NSF Grant (for students enrolled in U.S. universities only)
 
 Information for how to apply for an NSF grant can be found
 [here](http://www.cs.sjsu.edu/~mak/NSF/).
