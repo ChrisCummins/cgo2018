@@ -13,11 +13,11 @@ Registration and payment of fees will be absolutely necessary for attending any 
 
 In order to ensure that your registration information is processed quickly and correctly, the organizers request that you register using the online registration form. Your credit card and personal information will be protected from unauthorized access by an online security system (SSL).
 
-**Early registration ends on January 11th 11:59pm, 2018 any time on earth.**
+**Early registration ends on January 15th 11:59pm, 2018 any time on earth.**
 
 ## Registration Cancellation Policy
 
-Requests for refunds submitted in writing must be received no later than January 11, 2018, and are subject to a €44 processing fee.
+Requests for refunds submitted in writing must be received no later than January 15, 2018, and are subject to a €44 processing fee.
 No refunds will be processed after this date.
 
 ## Fees
@@ -26,7 +26,7 @@ Please note that workshops/tutorials are not included with the main conference r
 
 ### Main Conference
 
-| | Early (till Jan 11th) |  Late/On-Site (After Jan 11th)
+| | Early (till Jan 15th) |  Late/On-Site (After Jan 15th)
 | ACM/SIG/IEEE/OCG Members |    € 495 |  € 605 |
 | Non-ACM/SIG/IEEE/OCG Members  |  € 594  | € 704 |
 | Student or retired/lifetime ACM/SIG/IEEE/OCG Members  |  € 319  | € 363 |
@@ -34,7 +34,7 @@ Please note that workshops/tutorials are not included with the main conference r
 
 ### 1-Day Workshop/Tutorial
 
-| | Early (till Jan 11th) |  Late/On-Site (After Jan 11th)
+| | Early (till Jan 15th) |  Late/On-Site (After Jan 15th)
 | ACM/SIG/IEEE/OCG Members   | € 176  | € 220 |
 | Non-ACM/SIG/IEEE/OCG Members   | € 198  | € 242 |
 | Student or retired/lifetime ACM/SIG/IEEE/OCG Members   | € 143  | € 187 |
@@ -42,7 +42,7 @@ Please note that workshops/tutorials are not included with the main conference r
 
 ### 2-Days Workshop/Tutorial
 
-| | Early (till Jan 11th) |  Late/On-Site (After Jan 11th)
+| | Early (till Jan 15th) |  Late/On-Site (After Jan 15th)
 | ACM/SIG/IEEE/OCG Members   | € 297  | € 330 |
 | Non-ACM/SIG/IEEE/OCG Members   | € 330  | € 363 |
 | Student or retired/lifetime ACM/SIG/IEEE/OCG Members   | € 242  | € 275 |
