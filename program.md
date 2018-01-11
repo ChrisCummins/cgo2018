@@ -10,22 +10,22 @@ layout: content
 
 <table>
 <tr><td>08:30 - 10:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 1<br></td></tr>
-<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 1</td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 1</td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
 <tr><td>10:30 - 12:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 2<br></td></tr>
-<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 2</td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 2</td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
 <tr><td>13:30 - 15:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 1<br></td></tr>
-<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 3</td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 3</td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
 <tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2<br></td></tr>
-<tr><td></td><td>RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages Session 4</td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 4</td></tr>
 </table>
 
 
