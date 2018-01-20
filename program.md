@@ -141,6 +141,7 @@ layout: content
 </td></tr>
 
 <tr><td>11:45 - 13:15</td><td>Lunch</td></tr>
+<tr><td></td><td><b><a href="{{ '/panel/' | relative_url }}">Lunch Session and Panel: Women in Academia and Industry</a></b> - joint session between CGO/HPCA/PPoPP</td></tr>
 
 <tr><td>13:15 - 14:25</td><td>CGO Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b></td></tr>
 <tr><td></td><td>Sara-Jane Dunn (Microsoft Research Limited)</td></tr>
