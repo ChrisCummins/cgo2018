@@ -5,6 +5,7 @@ layout: content
 
 # Program
 
+#### Joint CGO/HPCA/PPoPP program: [[pdf]](http://www.complang.tuwien.ac.at/hpca-cgo-ppopp-cc/joint-program.pdf) [[html]](http://www.complang.tuwien.ac.at/hpca-cgo-ppopp-cc/program.html).
 
 ### Workshop/Tutorials Day One: Saturday 24th
 
