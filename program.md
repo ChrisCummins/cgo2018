@@ -167,7 +167,7 @@ layout: content
 ### Main Conference Day Three: Wednesday 28th
 
 <table>
-<tr><td>08:00 - 09:00</td><td>PPoPP Keynote</td></tr>
+<tr><td>08:00 - 09:00</td><td>PPoPP Keynote: <b><a href="{{ '/keynotes/#from-confusion-to-clarity-hardware-concurrency-programming-models' | relative_url }}">From confusion to clarity: hardware concurrency programming models</a></b></td></tr>
 
 <tr><td>09:00 - 09:25</td><td>Coffee Break</td></tr>
 
