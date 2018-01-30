@@ -27,6 +27,8 @@ layout: content
 
 <tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2<br></td></tr>
 <tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 4</td></tr>
+
+<tr><td>18:30 - 20:00</td><td><a href="https://ppopp18.sigplan.org/track/PPoPP-2018-catering" target="_blank">Catering</a> - Social Event at Heurigen</td></tr>
 </table>
 
 
@@ -47,7 +49,7 @@ layout: content
 
 <tr><td>15:30 - 17:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 4<br></td></tr>
 
-<tr><td>18:00-20:00</td><td>HPCA/CGO/PPoPP Welcome Reception and Poster Session</td></tr>
+<tr><td>18:00 - 20:00</td><td><a href="https://ppopp18.sigplan.org/track/PPoPP-2018-papers" target="_blank">Main Conference</a> - HPCA/CGO/PPoPP Welcome Reception and Poster Session (<a href="https://ppopp18.sigplan.org/room/venue-room-a" target="_blank">Room A</a>)</td></tr>
 </table>
 
 
@@ -106,6 +108,10 @@ layout: content
 </td></tr>
 
 <tr><td>16:55 - 17:15</td><td>Coffee Break</td></tr>
+
+<tr><td>17:15 - 17:45</td><td>SRC Presentations</td></tr>
+<tr><td>17:15 - 17:45</td><td>Artifact Evaluation</td></tr>
+<tr><td>18:00 - 19:30</td><td>CGO Business Meeting (Room CGO)</td></tr>
 </table>
 
 ### Main Conference Day Two: Tuesday 27th
@@ -163,6 +169,8 @@ layout: content
             <it>Daniel Maier, Biagio Cosenza, and Ben Juurlink (TU Berlin, Germany)</it></li>
     </ul>
 </td></tr>
+
+<tr><td>18:00 - 22:30</td><td>Banquet - Gala Dinner at <a href="{{ 'venue/#banquet' | relative_url }}">Palais Liechtenstein</a></td></tr>
 </table>
 
 ### Main Conference Day Three: Wednesday 28th
@@ -199,4 +207,6 @@ layout: content
             <it>Christopher Curtis, Daniel Grissom, and Philip Brisk (University of California at Riverside, USA; Azusa Pacific University, USA)</it></li>
     </ul>
 </td></tr>
+
+<tr><td>12:35 - 12:55</td><td>Closing of CGO Conference</td></tr>
 </table>
