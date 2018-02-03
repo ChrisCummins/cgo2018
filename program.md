@@ -110,7 +110,7 @@ layout: content
 <tr><td>16:55 - 17:15</td><td>Coffee Break</td></tr>
 
 <tr><td>17:15 - 17:45</td><td>SRC Presentations</td></tr>
-<tr><td>17:15 - 17:45</td><td>Artifact Evaluation</td></tr>
+<tr><td>17:15 - 17:45</td><td>CGO/PPoPP Artifact Evaluation Discussion</td></tr>
 <tr><td>18:00 - 19:30</td><td>CGO Business Meeting (Room CGO)</td></tr>
 </table>
 
