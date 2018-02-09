@@ -28,7 +28,7 @@ layout: content
 <tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2<br></td></tr>
 <tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 4</td></tr>
 
-<tr><td>18:30 - 20:00</td><td><a href="https://ppopp18.sigplan.org/track/PPoPP-2018-catering" target="_blank">Catering</a> - Social Event at Heurigen</td></tr>
+<tr><td>18:30 - 20:00</td><td><a href="https://ppopp18.sigplan.org/attending/heurigen" target="_blank">Social Event at Heurigen</a></td></tr>
 </table>
 
 

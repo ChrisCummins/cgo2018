@@ -21,7 +21,19 @@ Rooms may be booked at the conference hotel using [**this link**](https://reserv
 ## Banquet
 
 <p class="lead">
-The banquet will be held at the <a href="https://www.palaisliechtenstein.com/en/home.html">Palais Liechtenstein</a>.
+  The banquet will be held at the
+  <a href="https://www.palaisliechtenstein.com/en/home.html">Palais Liechtenstein</a>.
+  There will be time to visit the collections. Classical music
+  will be performed by <a href="http://www.iris-quartett-wien.at/">Iris-Ensemble-Wien</a>.
 </p>
+
+The busses to the banquet leave at 17:00 at the Pyramide. The banquet starts at 18:00. Busses back to the Pyramide leave the Palais every 5 minutes starting at 22:15 till 22:45. We ask for your cooperation to fill the busses completely and keep the 5 minutes schedule on the way back.
+
+If you you miss the bus the Palais can be reached from the Pyramide with the
+Badner Bahn and the underground line 6 at the stop “Währinger Straße -
+Volksoper”. Next stop of underground line 4 is “Roßauer Lände”, next stop of
+underground line number 2 is “Schottentor” exit Liechtensteinstraße. There are
+three big taxi companies in Vienna, Taxi 31300, Taxi 40100 and Taxi 60160. You
+just call them with ++431-31300, ++431-40100 or ++431-60160.
 
 ![]({{ '/img/banquet.jpg' | relative_url }})
