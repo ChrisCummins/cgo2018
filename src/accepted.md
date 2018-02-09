@@ -21,7 +21,7 @@ Josef Eisl (Johannes Kepler University Linz)<br/><br/>
 Patrick Thier (Institut fur Computersprachen Technische Universitat Wien)<br/><br/>
 
 <b>LLVM Superoptimizer</b><br/>
-Siddharth Bhatia (BITS Pilani)<br/><br/>
+Siddharth Bhatia, Yash Sinha (BITS Pilani)<br/><br/>
 
 <b>Optimization Space Prunning without Regrets</b><br/>
 Ulysse Beaugnon (Ecole Normale Superieure)<br/><br/>
