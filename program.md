@@ -10,23 +10,23 @@ layout: content
 ### Workshop/Tutorials Day One: Saturday 24th
 
 <table>
-<tr><td>08:30 - 10:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 1<br></td></tr>
-<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 1</td></tr>
+<tr><td>08:30 - 10:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 1. Room: Europa 2.<br></td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 1. Room: Europa 6.</td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 2<br></td></tr>
-<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 2</td></tr>
+<tr><td>10:30 - 12:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Tutorial</a> 2. Room: Europa 2.<br></td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 2. Room: Europa 6.</td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 1<br></td></tr>
-<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 3</td></tr>
+<tr><td>13:30 - 15:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 1. Room: Europa 2.<br></td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 3. Room: Europa 6.</td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2<br></td></tr>
-<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 4</td></tr>
+<tr><td>15:30 - 17:00</td><td><a href="http://llvm.org/devmtg/2018-02-24/" target="_blank">LLVM Performance Workshop</a> 2. Room: Europa 2.<br></td></tr>
+<tr><td></td><td><a href="https://sites.google.com/site/realworlddsl/" target="_blank">RWDSL'18: 3rd International Workshop on Real World Domain Specific Languages</a> Session 4. Room: Europa 6.</td></tr>
 
 <tr><td>18:30 - 20:00</td><td><a href="https://ppopp18.sigplan.org/attending/heurigen" target="_blank">Social Event at Heurigen</a></td></tr>
 </table>
@@ -35,19 +35,19 @@ layout: content
 ### Workshop/Tutorials Day Two: Sunday 25th
 
 <table>
-<tr><td>08:30 - 10:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 1<br></td></tr>
+<tr><td>08:30 - 10:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 1. Room: Pacific 3.<br></td></tr>
 
 <tr><td>10:00 - 10:30</td><td>Coffee Break</td></tr>
 
-<tr><td>10:30 - 12:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 2<br></td></tr>
+<tr><td>10:30 - 12:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 2. Room: Pacific 3.<br></td></tr>
 
 <tr><td>12:00 - 13:30</td><td>Lunch</td></tr>
 
-<tr><td>13:30 - 15:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 3<br></td></tr>
+<tr><td>13:30 - 15:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 3. Room: Pacific 3.<br></td></tr>
 
 <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
 
-<tr><td>15:30 - 17:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 4<br></td></tr>
+<tr><td>15:30 - 17:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 4. Room: Pacific 3.<br></td></tr>
 
 <tr><td>18:00 - 20:00</td><td><a href="https://ppopp18.sigplan.org/track/PPoPP-2018-papers" target="_blank">Main Conference</a> - HPCA/CGO/PPoPP Welcome Reception and Poster Session (<a href="https://ppopp18.sigplan.org/room/venue-room-a" target="_blank">Room A</a>)</td></tr>
 </table>
@@ -58,12 +58,12 @@ layout: content
 <table>
 <tr><td>08:30 - 08:45</td><td>Opening</td></tr>
 
-<tr><td>08:45 - 09:55</td><td>HPCA Keynote: <b><a href="{{ '/keynotes/#what-is-the-role-of-architecture-and-software-researchers-on-the-road-to-quantum-supremacy' | relative_url }}">What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</a></b></td></tr>
+<tr><td>08:45 - 09:55</td><td>HPCA Keynote: <b><a href="{{ '/keynotes/#what-is-the-role-of-architecture-and-software-researchers-on-the-road-to-quantum-supremacy' | relative_url }}">What is the role of Architecture and Software Researchers on the Road to Quantum Supremacy?</a></b>. Room: Europa 4.</td></tr>
 <tr><td></td><td>Margaret Martonosi (Princeton University)</td></tr>
 
 <tr><td>09:55 - 10:20</td><td>Coffee Break</td></tr>
 
-<tr><td>10:20 - 11:45</td><td>Session 1: Managed Runtimes</td></tr>
+<tr><td>10:20 - 11:45</td><td>Session 1: Managed Runtimes. Session Chair: Carol Eidt (Microsoft). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>SIMD Intrinsics on Managed Language Runtimes</b><br>
@@ -77,7 +77,7 @@ layout: content
 
 <tr><td>11:45 - 13:15</td><td>Lunch</td></tr>
 
-<tr><td>13:15 - 14:55</td><td>Session 2: Resilience and Security</td></tr>
+<tr><td>13:15 - 14:55</td><td>Session 2: Resilience and Security. Session Chair: Bjoern Franke (University of Edinburgh). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>Automating Efficient Variable-Grained Resiliency for Low-Power IoT Systems</b><br>
@@ -93,7 +93,7 @@ layout: content
 
 <tr><td>14:55 - 15:15</td><td>Coffee Break</td></tr>
 
-<tr><td>15:15 - 16:55</td><td>Session 3: Best Paper Finalists</td></tr>
+<tr><td>15:15 - 16:55</td><td>Session 3: Best Paper Finalists. Session Chair: Michael O'Boyle (University of Edinburgh). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>Poker: Permutation-based SIMD Execution of Intensive Tree Search by Path Encoding</b><br>
@@ -110,14 +110,15 @@ layout: content
 <tr><td>16:55 - 17:15</td><td>Coffee Break</td></tr>
 
 <tr><td>17:15 - 17:45</td><td>SRC Presentations</td></tr>
-<tr><td>17:15 - 17:45</td><td>CGO/PPoPP Artifact Evaluation Discussion</td></tr>
-<tr><td>18:00 - 19:30</td><td>CGO Business Meeting (Room CGO)</td></tr>
+<tr><td>17:15 - 17:45</td><td>CGO/PPoPP Artifact Evaluation Discussion. Room: Europa 3.</td></tr>
+<tr><td>18:00 - 19:30</td><td>CGO Business Meeting (Room CGO). Room: Europa 2.</td></tr>
+<tr><td>19:30 - 20:30</td><td>SC Meeting (Restaurant).</td></tr>
 </table>
 
 ### Main Conference Day Two: Tuesday 27th
 
 <table>
-<tr><td>08:00 - 09:40</td><td>Session 4:  Linear Algebra and Vectorization</td></tr>
+<tr><td>08:00 - 09:40</td><td>Session 4:  Linear Algebra and Vectorization. Session Chair: Taewook Oh (Facebook). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>The Generalized Matrix Chain Algorithm</b><br>
@@ -133,7 +134,7 @@ layout: content
 
 <tr><td>09:40 - 10:05</td><td>Coffee Break</td></tr>
 
-<tr><td>10:05 - 11:45</td><td>Session 5: Static and Dynamic Analysis</td></tr>
+<tr><td>10:05 - 11:45</td><td>Session 5: Static and Dynamic Analysis. Session Chair: Uma Srinivasan (Twitter). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>Scalable Concurrency Debugging with Distributed Graph Processing</b><br>
@@ -151,12 +152,12 @@ layout: content
 <tr><td>11:45 - 12:30</td><td><b><a href="{{ '/panel/' | relative_url }}">Women in Academia and Industry</a></b> (lunch session in lunch room)</td></tr>
 <tr><td>12:35 - 13:10</td><td><b><a href="{{ '/panel/' | relative_url }}">Women in Academia and Industry</a></b> (panel in same room as following keynote)</td></tr>
 
-<tr><td>13:15 - 14:25</td><td>CGO Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b></td></tr>
+<tr><td>13:15 - 14:25</td><td>CGO Keynote: <b><a href="{{ '/keynotes/#biological-computation' | relative_url }}">Biological Computation</a></b>. Room: Europa 4.</td></tr>
 <tr><td></td><td>Sara-Jane Dunn (Microsoft Research Limited)</td></tr>
 
 <tr><td>14:25 - 14:50</td><td>Coffee Break</td></tr>
 
-<tr><td>14:50 - 16:30</td><td>Session 6: Memory usage Optimisation</td></tr>
+<tr><td>14:50 - 16:30</td><td>Session 6: Memory usage Optimisation. Session Chair: Milind Chabbi (Baidu Research, USA). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>DeLICM: Scalar Dependence Removal at Zero Memory Cost</b><br>
@@ -176,11 +177,11 @@ layout: content
 ### Main Conference Day Three: Wednesday 28th
 
 <table>
-<tr><td>08:00 - 09:00</td><td>PPoPP Keynote: <b><a href="{{ '/keynotes/#from-confusion-to-clarity-hardware-concurrency-programming-models' | relative_url }}">From confusion to clarity: hardware concurrency programming models</a></b></td></tr>
+<tr><td>08:00 - 09:00</td><td>PPoPP Keynote: <b><a href="{{ '/keynotes/#from-confusion-to-clarity-hardware-concurrency-programming-models' | relative_url }}">From confusion to clarity: hardware concurrency programming models</a></b>. Room: Europa 4.</td></tr>
 
 <tr><td>09:00 - 09:25</td><td>Coffee Break</td></tr>
 
-<tr><td>09:25 - 11:05</td><td>Session 7: Program Generation and Synthesis</td></tr>
+<tr><td>09:25 - 11:05</td><td>Session 7: Program Generation and Synthesis. Session Chair: Christophe Dubach (University of Edinburgh). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>AutoPA: Automatically Generating Active Driver from Original Passive Driver Code</b><br>
@@ -196,7 +197,7 @@ layout: content
 
 <tr><td>11:05 - 11:20</td><td>Coffee Break</td></tr>
 
-<tr><td>11:20 - 12:35</td><td>Session 8:  Compilation for Specialised Domains</td></tr>
+<tr><td>11:20 - 12:35</td><td>Session 8:  Compilation for Specialised Domains. Session Chair: Alexandre Jimborean (Uppsala University). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>Optimal DNN Primitive Selection with Partitioned Boolean Quadratic Programming</b><br>
