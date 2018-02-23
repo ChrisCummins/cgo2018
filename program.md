@@ -93,7 +93,8 @@ layout: content
 
 <tr><td>14:55 - 15:15</td><td>Coffee Break</td></tr>
 
-<tr><td>15:15 - 16:55</td><td>Session 3: Best Paper Finalists. Session Chair: Michael O'Boyle (University of Edinburgh). Room: Europa 2.</td></tr>
+<tr><td>15:15 - 15:25</td><td>Test of Time Award. Room: Europa 2.</td></tr>
+<tr><td>15:25 - 16:55</td><td>Session 3: Best Paper Finalists. Session Chair: Michael O'Boyle (University of Edinburgh). Room: Europa 2.</td></tr>
 <tr><td></td><td>
     <ul>
         <li><b>Poker: Permutation-based SIMD Execution of Intensive Tree Search by Path Encoding</b><br>
@@ -208,6 +209,6 @@ layout: content
             <it>Christopher Curtis, Daniel Grissom, and Philip Brisk (University of California at Riverside, USA; Azusa Pacific University, USA)</it></li>
     </ul>
 </td></tr>
-
-<tr><td>12:35 - 12:55</td><td>Closing of CGO Conference</td></tr>
+<tr><td>12:35 - 12:45</td><td>CGO 2018 Best Paper Award. Room: Europa 2.</td></tr>
+<tr><td>12:45 - 12:55</td><td>Closing of CGO Conference. Room: Europa 2.</td></tr>
 </table>
