@@ -50,6 +50,8 @@ layout: content
 <tr><td>15:30 - 17:00</td><td>Tutorial: <a href="http://mrg.doc.ic.ac.uk/tutorials/cgo2018/" target="_blank">Improving security with reversibility and session types</a> Session 4. Room: Pacific 3.<br></td></tr>
 
 <tr><td>18:00 - 20:00</td><td><a href="https://ppopp18.sigplan.org/track/PPoPP-2018-papers" target="_blank">Main Conference</a> - HPCA/CGO/PPoPP Welcome Reception and Poster Session (<a href="https://ppopp18.sigplan.org/room/venue-room-a" target="_blank">Room A</a>)</td></tr>
+
+<tr><td>19:45</td><td>Women-in-Computer-Architecture (WICARCH) get-together. Room: Anthony's Bar, at the venue.</td></tr>
 </table>
 
 
