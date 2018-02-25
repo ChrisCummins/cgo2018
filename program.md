@@ -112,7 +112,7 @@ layout: content
 
 <tr><td>16:55 - 17:15</td><td>Coffee Break</td></tr>
 
-<tr><td>17:15 - 17:45</td><td>SRC Presentations</td></tr>
+<tr><td>17:00 - 19:00</td><td>SRC Presentations. Room: Europa 7.</td></tr>
 <tr><td>17:15 - 17:45</td><td>CGO/PPoPP Artifact Evaluation Discussion. Room: Europa 3.</td></tr>
 <tr><td>18:00 - 19:30</td><td>CGO Business Meeting (Room CGO). Room: Europa 2.</td></tr>
 <tr><td>19:30 - 20:30</td><td>SC Meeting (Restaurant).</td></tr>
