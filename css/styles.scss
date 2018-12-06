@@ -1,53 +1,55 @@
 ---
 ---
-
 html {
-    min-width: 320px;
+  min-width: 320px;
 }
 
 body {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 .sponsors img {
-    width: 100%;
-    max-width: 350px;
+  width: 100%;
+  max-width: 350px;
 }
 
 section img {
-    max-width: 60%;
+  max-width: 60%;
 }
 
 h1 {
-    margin-bottom: .7em;
+  margin-bottom: .7em;
 }
+
 h4, h5 {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 .navbar {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 /* organization members */
 table {
-    margin-bottom: 1.5em;
+  margin-bottom: 1.5em;
 }
+
 table tr td {
-    padding-right: .8em;
-    min-width: 150px;
+  padding-right: .8em;
+  min-width: 150px;
 }
+
 table tr td:last-child {
-    color: #555;
+  color: #555;
 }
 
 .page-content section:first-child:not(.no-top-padding) {
-    padding-top: 48px;
+  padding-top: 48px;
 }
 
 /* Mailchimp */
-#mc_embed_signup{
-    background:#fff;
-    clear: left;
-    font: 14px Helvetica,Arial,sans-serif;
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
 }
